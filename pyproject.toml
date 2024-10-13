@@ -1,6 +1,6 @@
 [project]
 name = "read-dataframe"
-version = "0.0.1"
+version = "0.0.2"
 authors = [
   { name="Jin Cheng Liaw", email="contactme@jcliaw.de" },
 ]
@@ -11,6 +11,9 @@ classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
+]
+dynamic = [
+    "dependencies", "scripts"
 ]
 
 [project.urls]
