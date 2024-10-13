@@ -1,0 +1,17 @@
+[project]
+name = "read-dataframe"
+version = "0.0.1"
+authors = [
+  { name="Jin Cheng Liaw", email="contactme@jcliaw.de" },
+]
+description = "Simple CLI tool to read tables via Pandas"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Repository = "https://github.com/RenZhen95/read_dataframe"
