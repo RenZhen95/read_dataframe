@@ -4,7 +4,7 @@
   </picture>
 </h1>
 
-# Simple CLI tool to read tables via Pandas
+# Simple Python CLI tool to read tables using Pandas
 
 If you're one of those guys who prefers to work from the command line and need to often quickly check out what's saved in a file (without the hassle of having to touch your mouse ... ) this could be a useful tool.
 
